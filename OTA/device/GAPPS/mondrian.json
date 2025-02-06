@@ -4,18 +4,18 @@
                         "maintainer": "Keosh",
                         "oem": "Xiaomi",
                         "device": "mondrian",
-                        "filename": "RisingOS_Revived-6.2.1-STABLE-25020811-GAPPS-OFFICIAL-mondrian-ota-signed.zip",
-                        "download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/mondrian/RisingOS_Revived-6.2.1-STABLE-25020811-GAPPS-OFFICIAL-mondrian-ota-signed.zip/download",
-                        "timestamp": 1739013598,
-                        "md5": "5cb75a6eae2654a93441a8f7d16dd044",
-                        "sha256": "d0c5660dabac9db6f28f408d80877eb949a380a615e02db6ed9155bba2eec38c",
-                        "size": 3186073705,
+                        "filename": "RisingOS_Revived-6.2.1-STABLE-25020614-GAPPS-OFFICIAL-mondrian-ota-signed.zip",
+                        "download": "https://sourceforge.net/projects/risingos-revived/files/6.x/GAPPS/mondrian/RisingOS_Revived-6.2.1-STABLE-25020614-GAPPS-OFFICIAL-mondrian-ota-signed.zip/download",
+                        "timestamp": 1738852259,
+                        "md5": "4ae46bd2a15b262390823b25f27bd067",
+                        "sha256": "c20c122a2bfd540007deda3aa431b371bda0b9fea3d8da91e9cfdda2de7ab385",
+                        "size": 3186064212,
                         "version": "6.2.1-Boundless",
                         "buildtype": "STABLE",
                         "forum": "",
-                        "recovery": "https://t.me/keoshlapgroup/14198",
+                        "recovery": "",
                         "paypal": "",
-                        "telegram": "https://t.me/keoshlapgroup"
+                        "telegram": "t.me/keoshlapgroup"
                 }
         ]
 }
